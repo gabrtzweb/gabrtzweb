@@ -1,4 +1,4 @@
-## Hi there, I'm Rodrigo! 👋 🇧🇷 🇮🇹
+## 👋 Hi there, I'm Rodrigo! 🇧🇷 🇮🇹
 
 I work at the intersection of E-commerce and Development. Currently, I manage an e-commerce operation and run a marketing agency tailored for the **Shopify** ecosystem, creating custom themes and connecting marketing strategies with code.
 
