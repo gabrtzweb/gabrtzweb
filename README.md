@@ -31,6 +31,6 @@ My main focus is pushing **Shopify Liquid** to its limits to build high-conversi
 
 ### 🎮 Gaming & Community Projects
 Beyond code, I'm deeply involved in the gaming modding scene. 
-My main hobby is creating **Modpacks, textures and localization** for **Minecraft Mods**, ensuring that mods blend seamlessly with specific resource packs and when playing in pt_br for my fellow Brazilians.
+My main hobby is creating **modpacks, textures and localization** for **Minecraft**, ensuring that mods blend seamlessly with specific resource packs and when playing in pt_br for my fellow Brazilians.
 
-I also contribute to localization files and modding projects for open-world RPGs like **Baldur's Gate 3**, **Cyberpunk 2077** and **The Witcher 3**, helping to make these experiences more accessible and customized.
+I also contribute to localization files, fixes and modding projects for open-world RPGs like **Baldur's Gate 3**, **Cyberpunk 2077** and **The Witcher 3**, helping to make these experiences more accessible and customized.
