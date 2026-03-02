@@ -12,6 +12,7 @@ My main objective is to push Shopify Liquid to its limits to build high-conversi
 
 **Core Technologies**
 <br>
+<br>
 [![Shopify](https://img.shields.io/badge/Shopify-141414?logo=shopify&logoColor=95BF47)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-141414?logo=html5&logoColor=E34F26)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-141414?logo=css3&logoColor=1572B6)](#)
@@ -21,6 +22,7 @@ My main objective is to push Shopify Liquid to its limits to build high-conversi
 * **Web Native:** Core Web Vitals, Fetch API, Web Components, JSON, Figma
 
 **Frameworks and Tools**
+<br>
 <br>
 [![React](https://img.shields.io/badge/React-141414?logo=react&logoColor=61DAFB)](#)
 [![GraphQL](https://img.shields.io/badge/GraphQL-141414?logo=graphql&logoColor=E10098)](#)
