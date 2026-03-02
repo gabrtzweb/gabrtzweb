@@ -11,24 +11,22 @@ My main objective is to push Shopify Liquid to its limits to build high-conversi
 ### 🛠 Tech Stack
 
 **Core Technologies**
-<div style="display: inline-block">
-  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
+<br>
+<img src="https://img.shields.io/badge/Shopify-141414?style=for-the-badge&logo=shopify&logoColor=95BF47" />
+<img src="https://img.shields.io/badge/HTML5-141414?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-141414?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-141414?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 * **Shopify Ecosystem:** Theme Architecture 2.0, JSON Templates, Checkout UI Extensions, API Integration, Shopify CLI 3.0, Storefronts Admin
 * **Web Native:** Core Web Vitals, Fetch API, Web Components, JSON, Figma
 
 **Frameworks and Tools**
-<div style="display: inline-block">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
+<br>
+<img src="https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/GraphQL-141414?style=for-the-badge&logo=graphql&logoColor=E10098" />
+<img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Node.js-141414?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=3776AB" />
 
 ---
 
@@ -37,4 +35,4 @@ Beyond web development, I am expanding my skills into Game Design and Programmin
 
 Currently, I am developing Kitchen Delight: Order Up, a chaotic cooperative party game that challenges players to manage a restaurant by blending frantic cooking action with strategic building and layout mechanics.
 
-I am also deeply involved in the gaming modding scene. One of my hobbies is creating modpacks, textures, and localization files, fixes, and modding projects for open-world RPGs like Baldur's Gate 3, Cyberpunk 2077, and The Witcher 3, and mainly Minecraft, helping to make these experiences more accessible and customized.
+I am also deeply involved in the gaming modding scene. One of my hobbies is creating modpacks, textures, localization files, and fixes for games like Baldur's Gate 3, Cyberpunk 2077, The Witcher 3, and mainly Minecraft, helping to make these experiences more accessible and customized for the community.
