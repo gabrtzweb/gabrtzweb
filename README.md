@@ -1,6 +1,6 @@
 ## 👋 Hi, I am Rodrigo
 
-I work at the intersection of e-commerce operations and native web development. With a background in managing online stores, I know how to translate business goals into high-performance code. My current focus is building custom Shopify architectures, connecting commercial strategies with solid engineering, and avoiding bloated third-party apps.
+Enthusiast in e-commerce operations and native web development. With a background in managing online stores, I know how to translate business goals into high-performance code. My current focus is on building custom Shopify architectures, connecting commercial strategies with solid engineering, and avoiding bloated third-party apps.
 
 ### 🚀 Professional Focus
 My main objective is to push Shopify Liquid to its limits to build high-conversion storefronts.
