@@ -5,28 +5,40 @@ I work at the intersection of e-commerce operations and native web development. 
 ### 🚀 Professional Focus
 My main objective is to push Shopify Liquid to its limits to build high-conversion storefronts.
 * Custom theme development and native modifications
-* Frontend implementation and Core Web Vitals optimization
+* Headless e-commerce exploration and modern frontend implementation
+* Core Web Vitals, Web Accessibility (a11y), and performance optimization
 * Bridging the gap between pixel-perfect design and profitable engineering
 
 ### 🛠 Tech Stack
 
-**Core Technologies**
+**E-commerce & Web Core**
 <br>
 <br>
-[![Shopify](https://img.shields.io/badge/Shopify-141414?logo=shopify&logoColor=95BF47)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-141414?logo=html5&logoColor=E34F26)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-141414?logo=css3&logoColor=1572B6)](#)
+[![Liquid](https://img.shields.io/badge/Liquid-141414?logo=shopify&logoColor=95BF47)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-141414?logo=typescript&logoColor=3178C6)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-141414?logo=javascript&logoColor=F7DF1E)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-141414?logo=html5&logoColor=E34F26)](#)
+[![CSS](https://img.shields.io/badge/CSS-141414?logo=css&logoColor=1572B6)](#)
 
-* **Shopify Ecosystem:** Theme Architecture 2.0, JSON Templates, Checkout UI Extensions, API Integration, Shopify CLI 3.0, Storefronts Admin
+* **Shopify Ecosystem:** Theme Architecture 2.0, Liquid, JSON Templates, Checkout UI Extensions, API Integration, Shopify CLI 3.0
 * **Web Native:** Core Web Vitals, Fetch API, Web Components, JSON, Figma
 
-**Frameworks and Tools**
+**Frameworks & Modern Tools**
 <br>
 <br>
 [![React](https://img.shields.io/badge/React-141414?logo=react&logoColor=61DAFB)](#)
+[![Remix](https://img.shields.io/badge/Remix-141414?logo=remix&logoColor=FFF)](#)
+[![Astro](https://img.shields.io/badge/Astro-141414?logo=astro&logoColor=FF7A59)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-141414?logo=tailwind-css&logoColor=38B2AC)](#)
 [![GraphQL](https://img.shields.io/badge/GraphQL-141414?logo=graphql&logoColor=E10098)](#)
 [![Git](https://img.shields.io/badge/Git-141414?logo=git&logoColor=F05032)](#)
+
+**Software & Backend**
+<br>
+<br>
+[![Unity](https://img.shields.io/badge/Unity-141414?logo=unity&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-141414?logo=csharp&logoColor=239120)](#)
+[![Java](https://img.shields.io/badge/Java-141414?logo=openjdk&logoColor=ED8B00)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-141414?logo=node.js&logoColor=339933)](#)
 [![Python](https://img.shields.io/badge/Python-141414?logo=python&logoColor=3776AB)](#)
 
