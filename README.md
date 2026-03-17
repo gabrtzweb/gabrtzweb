@@ -43,6 +43,15 @@ My main objective is to push Shopify Liquid to its limits to build high-conversi
 [![Python](https://img.shields.io/badge/Python-141414?logo=python&logoColor=3776AB)](#)
 
 <!--START_SECTION:waka-->
+
+```txt
+C#           1 hr 29 mins          ██████████████████░░░░░░░   72.18 %
+JSON         28 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
+TOML         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Markdown     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Astro        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
