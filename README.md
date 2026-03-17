@@ -42,7 +42,7 @@ My main objective is to push Shopify Liquid to its limits to build high-conversi
 [![Node.js](https://img.shields.io/badge/Node.js-141414?logo=node.js&logoColor=339933)](#)
 [![Python](https://img.shields.io/badge/Python-141414?logo=python&logoColor=3776AB)](#)
 
-<img src="wakatime/stats.svg?v=1" height="300"/>
+<img src="wakatime/stats.svg?v=20260317" height="300"/>
 
 ---
 
