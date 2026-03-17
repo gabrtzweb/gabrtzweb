@@ -42,6 +42,10 @@ My main objective is to push Shopify Liquid to its limits to build high-conversi
 [![Node.js](https://img.shields.io/badge/Node.js-141414?logo=node.js&logoColor=339933)](#)
 [![Python](https://img.shields.io/badge/Python-141414?logo=python&logoColor=3776AB)](#)
 
+### Activity Snapshot
+
+Last 30 days of tracked coding time from WakaTime.
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -53,6 +57,8 @@ Astro        0 secs                ▒░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+_Auto-updated daily by GitHub Actions._
 
 ---
 
