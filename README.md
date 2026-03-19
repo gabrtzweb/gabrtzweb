@@ -44,25 +44,8 @@ My main objective is to push Shopify Liquid to its limits to build high-conversi
 
 ### Activity Snapshot
 
-Last 30 days of tracked coding time from WakaTime.
-
 <!--START_SECTION:waka-->
-
-```python
-From: 15 February 2026 - To: 17 March 2026
-
-Total Time: 2 hrs 3 mins
-
-C#           1 hr 29 mins    ##################-------   72.18 %
-JSON         28 mins         ######-------------------   22.62 %
-TOML         2 mins          #------------------------   02.21 %
-Markdown     1 min           -------------------------   01.59 %
-Astro        0 secs          -------------------------   00.77 %
-```
-
 <!--END_SECTION:waka-->
-
-_Auto-updated daily by GitHub Actions._
 
 ---
 
