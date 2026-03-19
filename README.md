@@ -29,6 +29,8 @@ I specialize in custom Shopify storefronts built for conversion, performance, an
 
 <h2><img src="https://api.iconify.design/material-symbols/monitoring.svg?color=%238b949e" width="18" alt="Activity snapshot icon" /> Activity Snapshot</h2>
 
+Auto-updated by GitHub Actions and WakaTime.
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -40,8 +42,6 @@ Markdown     24 mins               █░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-_Auto-updated daily by GitHub Actions._
 
 ---
 
