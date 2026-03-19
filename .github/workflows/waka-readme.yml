@@ -12,15 +12,6 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v0.3.1
+      - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          TIME_RANGE: last_30_days
-          LANG_COUNT: 5
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          BLOCKS: "-#"
-          CODE_LANG: python
-          STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: Binary TOML
