@@ -30,6 +30,15 @@ I specialize in custom Shopify storefronts built for conversion, performance, an
 <h2><img src="https://api.iconify.design/material-symbols/monitoring.svg?color=%238b949e" width="18" alt="Activity snapshot icon" /> Activity Snapshot</h2>
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   5 hrs 52 mins         █████████████░░░░░░░░░░░░   52.00 %
+C#           1 hr 48 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
+Bash         1 hr 21 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+JSON         36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Markdown     24 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+```
+
 <!--END_SECTION:waka-->
 
 _Auto-updated daily by GitHub Actions._
