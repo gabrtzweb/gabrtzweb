@@ -34,11 +34,11 @@ Auto-updated by GitHub Actions and WakaTime.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 2 mins          █████████████░░░░░░░░░░░░   52.19 %
-CSS          1 hr 21 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
-C#           50 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-JSON         31 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Markdown     27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+TypeScript   1 hr 45 mins          ████████▒░░░░░░░░░░░░░░░░   33.94 %
+Other        1 hr 37 mins          ████████░░░░░░░░░░░░░░░░░   31.62 %
+CSS          48 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+C#           40 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+Markdown     11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
