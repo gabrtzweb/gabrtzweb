@@ -34,11 +34,11 @@ Auto-updated by GitHub Actions and WakaTime.
 <!--START_SECTION:waka-->
 
 ```txt
-C#              21 hrs 40 mins        █████████████████████░░░░   84.05 %
-Markdown        2 hrs 27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-Other           1 hr 2 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-JSON            11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Unity3D Asset   6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+C#              16 hrs 51 mins        ██████████████████████▒░░   88.85 %
+Markdown        52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Other           42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+JSON            11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Unity3D Asset   6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
