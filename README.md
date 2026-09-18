@@ -34,8 +34,7 @@ Auto-updated by GitHub Actions and WakaTime.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   21 mins               ████████████████████▒░░░░   81.00 %
-Rust       5 mins                ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
+Markdown   17 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
