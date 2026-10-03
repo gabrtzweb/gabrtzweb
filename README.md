@@ -34,11 +34,11 @@ Auto-updated by GitHub Actions and WakaTime.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust                      3 hrs 31 mins         █████████████████▒░░░░░░░   68.96 %
-Markdown                  1 hr 28 mins          ███████▒░░░░░░░░░░░░░░░░░   29.01 %
-Batchfile                 3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-WebGPU Shading Language   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-TOML                      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Rust                      1 hr 31 mins          █████████████████████░░░░   84.09 %
+Markdown                  12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+Batchfile                 3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+WebGPU Shading Language   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+TOML                      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
