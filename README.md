@@ -34,11 +34,10 @@ Auto-updated by GitHub Actions and WakaTime.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust        18 mins               ██████████████████▓░░░░░░   74.99 %
-Batchfile   3 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
-Markdown    2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-Other       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Bash        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Batchfile   3 mins                ████████████████████████░   95.95 %
+Other       0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Markdown    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Bash        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
