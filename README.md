@@ -34,10 +34,7 @@ Auto-updated by GitHub Actions and WakaTime.
 <!--START_SECTION:waka-->
 
 ```txt
-Batchfile   3 mins                ████████████████████████░   95.95 %
-Other       0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Markdown    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Bash        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
