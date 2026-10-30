@@ -34,11 +34,11 @@ Auto-updated by GitHub Actions and WakaTime.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         8 hrs 24 mins         ██████████████▒░░░░░░░░░░   58.00 %
-Markdown     3 hrs 27 mins         ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-Python       1 hr 21 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-JSON         37 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Other        22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Rust         5 hrs 25 mins         ████████████████░░░░░░░░░   63.76 %
+Markdown     1 hr 27 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+JSON         37 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Python       24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Other        18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
