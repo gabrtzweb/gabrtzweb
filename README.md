@@ -27,25 +27,10 @@ I specialize in custom Shopify storefronts built for conversion, performance, an
 - Shopify: Online Store 2.0 theme architecture, Liquid, JSON templates, Checkout UI Extensions, API integrations, Shopify CLI
 - Web platform: Core Web Vitals, Fetch API, Web Components, JSON, Figma-driven implementation
 
-<h2><img src="https://api.iconify.design/material-symbols/monitoring.svg?color=%238b949e" width="18" alt="Activity snapshot icon" /> Activity Snapshot</h2>
-
-Auto-updated by GitHub Actions and WakaTime.
-
-<!--START_SECTION:waka-->
-
-```txt
-Other    3 mins                ██████████████░░░░░░░░░░░   56.47 %
-JSON     1 min                 ███████░░░░░░░░░░░░░░░░░░   28.05 %
-Rust     0 secs                ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
-Python   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-```
-
-<!--END_SECTION:waka-->
-
 ---
 
 <h2><img src="https://api.iconify.design/material-symbols/stadia-controller.svg?color=%238b949e" width="18" alt="Game development icon" /> Game Development and Community Work</h2>
 
-Alongside web development, I am expanding into game design and programming with C# and Unity. Currently, I am developing "Kitchen Delight: Order Up", a chaotic cooperative party game that challenges players to manage a restaurant by blending frantic cooking action with strategic building and layout mechanics.
+Alongside web development, I am expanding into game design and programming with Rust, Bevy, C#, and Unity. Currently, I am developing two projects, one in Unity: "Kitchen Delight: Order Up", a chaotic cooperative party game that challenges players to manage a restaurant by blending frantic cooking action with strategic building and layout mechanics. And the other is a custom Voxel Engine build in Bevy using Rust and other tools.
 
 I am also involved in the gaming modding scene. Beyond a hobby, I create modpacks, textures, localization files, and fixes for titles like Baldur's Gate 3, Cyberpunk 2077, and The Witcher 3. My most consistent work is in Minecraft, where I focus on making the experience more accessible and tailored to the community through technical refinements.
